@@ -17,9 +17,9 @@
 
 ### ssh client
 >ssh client is a small piece of code running in client side.
-*.Knows how to communicate with remote using ssh protocal.
-*.Know which hosts to connect.
-*.Knows credentials to be passed to authenticate ssh session.
+>* Knows how to communicate with remote using ssh protocal.
+>* Know which hosts to connect.
+>* Knows credentials to be passed to authenticate ssh session.
 
 
 
